@@ -1,5 +1,4 @@
-Title
-The Brain Side of Hearing: Can Brain Network Dynamics Help Explain Individual Differences In Speech In Noise Perception? [Stage 1 Registered Report-currently under review at PNAS Nexus]
+Title: The Brain Side of Hearing: Can Brain Network Dynamics Help Explain Individual Differences In Speech In Noise Perception? [Stage 1 Registered Report-currently under review at PNAS Nexus]
 References
 1.	Rönnberg, J., Lunner, T., Zekveld, A., Sörqvist, P., Danielsson, H., Lyxell, B., Dahlström, Ö., Signoret, C., Stenfelt, S., Pichora-Fuller, M. K., & Rudner, M. (2013). The Ease of Language Understanding (ELU) model: Theoretical, empirical, and clinical advances. Frontiers in Systems Neuroscience, 7, 31. https://doi.org/10.3389/fnsys.2013.00031
 2.	Mattys, S. L., O’Leary, R. M., McGarrigle, R. A., & Wingfield, A. (2026). Reconceptualizing cognitive listening. Trends in Cognitive Sciences, 30(5), 409–421. https://doi.org/10.1016/j.tics.2025.09.014
